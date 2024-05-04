@@ -1,16 +1,5 @@
 # motor_show_2024_app
 
-A new Flutter project.
+<img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/8c32a60b-de4b-4e93-bc2e-337eed1f799b">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
