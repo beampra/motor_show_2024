@@ -1,7 +1,7 @@
 # motor_show_2024_app
 
 <img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/9c8292bd-2a03-49cb-b31a-00b41147c65c">
-
+<img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/7a09c541-246f-44f8-83e6-baabbc7f14d4">
 <img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/59cdcc3a-6183-4e24-a925-d140ef8ba433">
 <img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/a4bf59f1-f3e4-4880-9fb7-5ccfa7ad447c">
 <img width="125px" src="https://github.com/beampra/motor_show_2024/assets/165864011/a73d37cc-94dc-4429-b1ca-e0de1d2befff">
