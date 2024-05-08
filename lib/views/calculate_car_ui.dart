@@ -237,7 +237,6 @@ class _CalculateCarUIState extends State<CalculateCarUI> {
                       );
                     } else {
                       // ดำเนินการคำนวณต่อเมื่อค่าที่ป้อนไม่ใช่ 0
-
                       double downmoney =
                           (double.parse(valuecar.text) * downpayment) / 100;
                       double salecar =
@@ -309,18 +308,6 @@ class _CalculateCarUIState extends State<CalculateCarUI> {
                           );
                         },
                       );
-                      //Navigator.push(
-                      //context,
-                      //MaterialPageRoute(
-                      //builder: (context) => ShowBillCarUI(
-                      //valuCar: valuecar.text,
-                      //downpayment: downpayment,
-                      //salecar: salecar,
-                      //monthperiod: _periodSelected,
-                      //Monthlyinstallmentamount: Monthlyinstallmentamount,
-                      //),
-                      //),
-                      //);
                     }
                   },
                   child: Text(

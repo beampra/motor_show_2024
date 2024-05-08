@@ -7,11 +7,12 @@ class SplashScreenMotorshowUI extends StatefulWidget {
   const SplashScreenMotorshowUI({super.key});
 
   @override
-  State<SplashScreenMotorshowUI> createState() => _SplashScreenMotorshowUIState();
+  State<SplashScreenMotorshowUI> createState() =>
+      _SplashScreenMotorshowUIState();
 }
 
 class _SplashScreenMotorshowUIState extends State<SplashScreenMotorshowUI> {
-   @override
+  @override
   void initState() {
     Future.delayed(
       Duration(
@@ -27,6 +28,7 @@ class _SplashScreenMotorshowUIState extends State<SplashScreenMotorshowUI> {
     // TODO: implement initState
     super.initState();
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -52,7 +54,7 @@ class _SplashScreenMotorshowUIState extends State<SplashScreenMotorshowUI> {
             ),
             Text(
               'THE MOBILITY OF TOY FUL EXPERIENCES',
-              style: TextStyle(                
+              style: TextStyle(
                 fontSize: MediaQuery.of(context).size.height * 0.02,
               ),
             ),
@@ -66,8 +68,8 @@ class _SplashScreenMotorshowUIState extends State<SplashScreenMotorshowUI> {
               height: MediaQuery.of(context).size.height * 0.12,
             ),
             Text(
-              'Created by Nontakorn\nDT1 SAU 2024',
-              style: TextStyle(               
+              'Created by Aditep404\nDT1 SAU 2024',
+              style: TextStyle(
                 fontSize: MediaQuery.of(context).size.height * 0.02,
               ),
               textAlign: TextAlign.center,
