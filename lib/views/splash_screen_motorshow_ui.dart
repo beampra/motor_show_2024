@@ -68,7 +68,7 @@ class _SplashScreenMotorshowUIState extends State<SplashScreenMotorshowUI> {
               height: MediaQuery.of(context).size.height * 0.12,
             ),
             Text(
-              'Created by Aditep404\nDT1 SAU 2024',
+              'Created by Aditep404 \nDT1 SAU 2024',
               style: TextStyle(
                 fontSize: MediaQuery.of(context).size.height * 0.02,
               ),
